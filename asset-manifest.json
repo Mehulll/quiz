@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/quiz/static/css/main.a914f765.chunk.css",
+    "main.js": "/quiz/static/js/main.2fc09523.chunk.js",
+    "main.js.map": "/quiz/static/js/main.2fc09523.chunk.js.map",
+    "runtime-main.js": "/quiz/static/js/runtime-main.7fc51b13.js",
+    "runtime-main.js.map": "/quiz/static/js/runtime-main.7fc51b13.js.map",
+    "static/js/2.c5093ec2.chunk.js": "/quiz/static/js/2.c5093ec2.chunk.js",
+    "static/js/2.c5093ec2.chunk.js.map": "/quiz/static/js/2.c5093ec2.chunk.js.map",
+    "static/js/3.ef7d4d4d.chunk.js": "/quiz/static/js/3.ef7d4d4d.chunk.js",
+    "static/js/3.ef7d4d4d.chunk.js.map": "/quiz/static/js/3.ef7d4d4d.chunk.js.map",
+    "index.html": "/quiz/index.html",
+    "static/css/main.a914f765.chunk.css.map": "/quiz/static/css/main.a914f765.chunk.css.map",
+    "static/js/2.c5093ec2.chunk.js.LICENSE.txt": "/quiz/static/js/2.c5093ec2.chunk.js.LICENSE.txt",
+    "static/js/3.ef7d4d4d.chunk.js.LICENSE.txt": "/quiz/static/js/3.ef7d4d4d.chunk.js.LICENSE.txt",
+    "static/media/correct.160572d7.mp3": "/quiz/static/media/correct.160572d7.mp3",
+    "static/media/play.8e5f6d1d.mp3": "/quiz/static/media/play.8e5f6d1d.mp3",
+    "static/media/wrong.e9468218.mp3": "/quiz/static/media/wrong.e9468218.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fc51b13.js",
+    "static/js/2.c5093ec2.chunk.js",
+    "static/css/main.a914f765.chunk.css",
+    "static/js/main.2fc09523.chunk.js"
+  ]
+}
